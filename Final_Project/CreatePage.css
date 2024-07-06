@@ -1,7 +1,8 @@
-.createNewsHeader{
+.createNewsHeader {
     margin-top: 43px;
     margin-left: 45px;
 }
+
 .title {
     font-weight: bold;
     height: 24px;
@@ -9,7 +10,8 @@
     margin-left: 70px;
     top: 181px;
 }
-.typeInTitle{
+
+.typeInTitle {
     width: 333px;
     height: 45px;
     margin-left: 70px;
@@ -17,19 +19,16 @@
     border: 1px solid black;
     top: 205px;
 }
-#Desc{
-    margin-top: 50px;
-}
-.Desc{
-    margin-top: 50px;
-    margin-bottom: 50px;
+
+.Desc {
     font-weight: bold;
     width: 223px;
     margin-left: 70px;
     height: 24px;
     top: 273px;
 }
-.typeInDesc{
+
+.typeInDesc {
     width: 687px;
     height: 182px;
     margin-left: 70px;
@@ -37,81 +36,93 @@
     margin-top: 10px;
     border: 1px solid black;
 }
-.chooseCategory{
+
+.chooseCategory {
+    margin-top: 30px;
     width: 333px;
     height: 45px;
     top: 510px;
     margin-left: 70px;
 }
-.Category{
+
+.Category {
     font-weight: bold;
     width: 223px;
     height: 24px;
     top: 510px;
 }
-.categorySelection{
+
+.categorySelection {
     width: 333px;
     height: 45px;
-    border-radius:8px ;
+    border-radius: 8px;
     border: 1px solid black;
     top: 534px;
 }
-.twoDivs{
+
+.twoDivs {
     display: flex;
     flex-direction: row;
     top: 610px;
-    top: 610px;
+    margin-top: 50px;
 }
-.firstName{
+
+.firstName {
     margin-left: 70px;
     font-weight: bold;
     height: 24px;
     width: 223px;
 }
-.firstNaame{
+
+.firstNaame {
     margin-left: 70px;
     width: 333px;
     height: 45px;
     border-radius: 8px;
     border: 1px solid black;
+    margin-right: 15px;
 }
-.lastName{
+
+.lastName {
     left: 424px;
     font-weight: bold;
     height: 24px;
     width: 223px;
 }
-.lastNaame{
+
+.lastNaame {
     left: 424px;
     width: 333px;
     height: 45px;
     border-radius: 8px;
     border: 1px solid black;
 }
-.buttons{
-    width: 300px;
+
+.buttons {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    width: 300px;
     margin-top: 2%;
     margin-left: 23%;
-
 }
-.cancelButton{
+
+.cancelButton {
     width: 121px;
     height: 35px;
     background-color: white;
     border: 1px solid rgb(202, 202, 202);
-    border-radius: 8px
-
+    border-radius: 8px;
 }
-.saveButton{
+
+.saveButton {
     width: 121px;
     height: 35px;
     background-color: white;
     border: 1px solid rgb(202, 202, 202);
-    border-radius: 8px
-
+    border-radius: 8px;
 }
 
-
+.descMargin{
+    margin-top: 20px;
+}
